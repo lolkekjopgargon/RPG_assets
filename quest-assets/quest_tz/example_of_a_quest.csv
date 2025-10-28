@@ -1,0 +1,5 @@
+﻿ID,Branch,Level,QuestName,Description,UnlockCondition,Bonuses,PassiveSkill,Rarity,AchievementImage
+MUSIC_01,Путь Музыканта,1,Первый аккорд,"Возьмите гитару в руки и сыграйте любой аккорд. Неважно, насколько криво – главное начать!",,,Начало положено,bronze,https://raw.githubusercontent.com/lolkekjopgargon/RPG_assets/refs/heads/main/achievements/achievements-preinstal-se/SE1.png
+MUSIC_02,Путь Музыканта,2,Простая мелодия,Выучите и сыграйте простую мелодию из 3-5 нот. Можно использовать табы или ноты.,MUSIC_01,'+0.1 уровень | +1 Ритм,Удай мелодию с 3 нот,,
+MUSIC_03,Путь Музыканта,3,Ежедневная практика,В течение 7 дней уделяйте игре на гитаре хотя бы 15 минут ежедневно.,MUSIC_02,'+0.2 уровень | +1 Выносливость,Юный и Старательный,,
+MUSIC_04,Путь Музыканта,4,Песня сердца,Исполните одну песню целиком под гитару (можно под фонограмму).,MUSIC_03,'+0.3 уровень | +2 Артистизм,Начинающий бард,bronze,https://github.com/lolkekjopgargon/RPG_assets/blob/main/achievements/achievements-preinstal-se/SE1.png?raw=true
